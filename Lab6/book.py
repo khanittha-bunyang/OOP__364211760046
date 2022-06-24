@@ -1,7 +1,7 @@
 """
-Student Name: {}
-ID: {}
-Group: {}
+Student Name: {khanittha bunyang}
+ID: {364211760031}
+Group: {MIT212}
 """
 
 """
